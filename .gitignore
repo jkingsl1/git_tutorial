@@ -1,0 +1,8 @@
+donottrack.rtf
+/figures
+.DS_Store
+*.pdf
+*.log
+
+# would want to ignore data files, figures in latex beamer, Latex logs, etc
+
