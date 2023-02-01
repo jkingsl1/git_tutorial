@@ -1,1 +1,1 @@
-mistake Here is sample text trying to learn git. update 130:	 
+Here is sample text trying to learn git. update 130:	 
