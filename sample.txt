@@ -1,2 +1,1 @@
-Here is sample text trying to learn git. update 0206 in main branch, other 0206 edit was mybranch	 
-another edit on git hub . com
+Here is sample text trying to learn git. update 0206 in main branch, other 0206 edit was mybranch	now the merged version has deletions  
