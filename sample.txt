@@ -1,2 +1,2 @@
-Here is sample text trying to learn git. update 0206 :)	 
+Here is sample text trying to learn git. update 0206 another edit in my branch	 
 another edit on git hub . com
