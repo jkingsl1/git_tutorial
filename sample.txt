@@ -1,1 +1,4 @@
-Here is sample text trying to learn git. update 0206 in main branch, other 0206 edit was mybranch	now the merged version has deletions  
+Here is sample text trying to learn git. 
+
+
+Conflict time baby! 
