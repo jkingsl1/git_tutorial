@@ -1,4 +1,6 @@
 Here is sample text trying to learn git. 
 
+Adding paragraphs on github.com on wednesday feb 8 trying to make a merge conflict to use tools. 
+
 
 Conflict time baby! 
